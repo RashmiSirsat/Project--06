@@ -1,1 +1,1 @@
-# Project--06
+The project name is "Light & Dark mode"
